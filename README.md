@@ -25,14 +25,10 @@ The following properties can be configured:
 
 
 <table width="100%">
-	<thead>
 		<tr>
 			<th>Option</th>
 			<th width="100%">Description</th>
 		</tr>
-	<thead>
-	<tbody>
-
 		<tr>
 			<td><code>url</code></td>
 			<td>the URL in the iFrame<br>
@@ -56,5 +52,4 @@ The following properties can be configured:
 				<br><b>Default value:</b> <code>"100px"</code>
 			</td>
 		</tr>
-	</tbody>
 </table>
