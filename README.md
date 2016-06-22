@@ -1,5 +1,5 @@
 # Module: iFrame
-The `iFrame` module is for MagicMirror. It is a simple way to add an iFrame of any web content to your MagicMirror.
+The `iFrame` module is for MagicMirror. It is a simple way to add an iFrame of any web content to your [MagicMirror](https://github.com/MichMich/MagicMirror).
 ## Using the module
 
 To use this module, add it to the modules array in the `config/config.js` file:
