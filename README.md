@@ -10,8 +10,8 @@ modules: [
 		position: 'bottom_bar',	// This can be any of the regions.
 		config: {
 			// See 'Configuration options' for more information.
-				url: "ENTER IN URL"
-				width: "100%" // Optional. Default: 100%
+				url: "ENTER IN URL",
+				width: "100%", // Optional. Default: 100%
 				height: "100px" //Optional. Default: 100px
 			}
 		}
@@ -25,14 +25,11 @@ The following properties can be configured:
 
 
 <table width="100%">
-		<tr>
-			<th>Option</th>
-			<th width="100%">Description</th>
-		</tr>
+		<tr><th>Option</th><th width="100%">Description</th></tr>
 		<tr>
 			<td><code>url</code></td>
 			<td>the URL in the iFrame<br>
-				<br><b>Example:</b><code>"http:http://example.com/" </code>
+				<br><b>Example:</b><code>"http://example.com/"</code>
 				<br><b>Default value:</b> <code>''</code>
 			</td>
 		</tr>
