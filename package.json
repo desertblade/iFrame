@@ -1,7 +1,7 @@
 {
-  "name": "Magic-Mirror-Module-Smartthinngs",
+  "name": "Magic-Mirror-iFrame",
   "version": "1.0.0",
-  "description": "Google Maps Traffic module for the Magic Mirror.",
+  "description": "iFrame module for Magic MIrror",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SamLewis0602/MMM-Traffic"
@@ -9,16 +9,11 @@
   "keywords": [
     "magic mirror",
     "smart mirror",
-    "traffic",
-    "module"
+    "iFrame"
   ],
-  "author": "Sam Lewis",
-  "contributors": "https://github.com/SamLewis0602/MMM-Traffic/graphs/contributors",
+  "author": "Ben Williams",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/SamLewis0602/MMM-Traffic/issues"
-  },
-  "homepage": "https://github.com/SamLewis0602/MMM-Traffic#readme",
+  "homepage": "https://github.com/desertblade/iFrame#readme",
   "dependencies": {
     "request": "latest",
     "express": "latest",
