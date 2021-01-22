@@ -1,10 +1,10 @@
 {
   "name": "Magic-Mirror-iFrame",
   "version": "1.0.0",
-  "description": "iFrame module for Magic MIrror",
+  "description": "iFrame module for Magic Mirror",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamLewis0602/MMM-Traffic"
+    "url": "git+https://github.com/desertblade/iFrame/"
   },
   "keywords": [
     "magic mirror",
